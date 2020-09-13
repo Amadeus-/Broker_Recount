@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: Broker - |cffffffffRecount|r
+## Notes: LDB Recount Window Toggle
+## Author: Amadeus
+## Version: 1.0
+## OptionalDeps: LibStub, CallbackHandler-1.0, LibDataBroker-1.1, Recount
+
+Libs\Libs.xml
+Broker_Recount.lua
