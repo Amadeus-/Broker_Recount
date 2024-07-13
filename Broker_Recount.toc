@@ -1,8 +1,8 @@
-## Interface: 100205
+## Interface: 100207
 ## Title: Broker - |cffffffffRecount|r
 ## Notes: LDB Recount Window Toggle
 ## Author: Amadeus
-## Version: 1.3
+## Version: 10.2.7.0
 ## OptionalDeps: LibStub, CallbackHandler-1.0, LibDataBroker-1.1, Recount
 
 Libs\Libs.xml
