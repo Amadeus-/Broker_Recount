@@ -2,7 +2,7 @@
 ## Title: Broker - |cffffffffRecount|r
 ## Notes: LDB Recount Window Toggle
 ## Author: Amadeus
-## Version: 11.1.0.0
+## Version: 12.0.0.1
 ## OptionalDeps: LibStub, CallbackHandler-1.0, LibDataBroker-1.1, Recount
 
 Libs\Libs.xml
